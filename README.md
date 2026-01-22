@@ -10,7 +10,7 @@
 
 # Hardware Setup
 5641AS pinout
-
+```javascript
                       D1             a             f            D2            D3              b
                       /              /             /            /             /               /
                       /              /             /            /             /               /
@@ -36,6 +36,7 @@
                       /              /             /            /             /               /
                       /              /             /            /             /               /
                       e              d            dot           c             g               D
+```
 Pinout diagram from : https://github.com/adrian200223/Simple5641AS
 
  - Connect each pin on the 5641AS to a pin on your microcontroller
